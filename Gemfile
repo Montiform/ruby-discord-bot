@@ -19,5 +19,6 @@ end
 group :test do
   gem 'rspec'
   gem 'rack-test'
-  gem 'factory_bot'
+  gem 'factory_bot'/
+  ruby "2.6.6"
 end
